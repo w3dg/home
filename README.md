@@ -99,6 +99,9 @@ Other:
 * [Wob](https://github.com/tinted-theming/base16-wob) maintained by [h4-n1](https://github.com/h4-n1)
 * [Xresources](https://github.com/tinted-theming/base16-xresources) maintained by [DanManN](https://github.com/orgs/tinted-theming/people/DanManN), and [pinpox](https://github.com/orgs/tinted-theming/people/pinpox)
 * [Waybar](https://github.com/tinted-theming/base16-waybar) maintained by [laenzlinger](https://github.com/laenzlinger)
+* [lazygit](https://github.com/tinted-theming/tinted-lazygit) maintained by [blueingreen68](https://github.com/BlueInGreen68)
+* [nwg-dock](https://github.com/tinted-theming/tinted-nwg-dock) maintained by [blueingreen68](https://github.com/BlueInGreen68)
+* [Zen Browser](https://github.com/tinted-theming/tinted-zen) maintained by [GooseRooster](https://github.com/GooseRooster)
 
 ## Official Schemes
 
@@ -119,6 +122,12 @@ spec.
 ## Official Managers
 
 * [Tinty](https://github.com/tinted-theming/tinty) maintained by [JamyGolden](https://github.com/JamyGolden)
+
+### Unofficial Managers
+
+If you have a manager you maintain, but don't want to submit it to this org, feel free to add a link to the repository here to add it to this list. These are community maintained managers and may not be updated often.
+
+* [gnomad](https://github.com/GooseRooster/gnomad) maintained by [GooseRooster](https://github.com/GooseRooster) - **note**: gnomad is a GNOME-centric manager that relies on Tinty being installed to function as a full Manager while also integrating with GNOME Shell.
 
 ### Unofficial Templates
 
@@ -178,10 +187,12 @@ If you have a template you maintain, but don't want to submit it to this org, fe
 
 <details><summary><b>Window Managers</b> - window managers and related utilities</summary>
 <p>
-
+ 
+* [Hyprland (Lua)](https://github.com/janfreeman/base16-hyprland-lua) maintained by [janfreeman](https://github.com/janfreeman)
 * [i3status](https://github.com/Eluminae/base16-i3status) maintained by [Eluminae](https://github.com/Eluminae)
 * [i3status-rust](https://github.com/mystfox/base16-i3status-rust) maintained by [mystfox](https://github.com/mystfox)
 * [mako](https://github.com/Eluminae/base16-mako) maintained by [Eluminae](https://github.com/Eluminae)
+* [Noctalia](https://github.com/LePetitPrince-4/base16-noctalia) maintained by [LePetitPrince-4](https://github.com/LePetitPrince-4)
 * [qt5ct](https://github.com/mnussbaum/base16-qt5ct) maintained by [mnussbaum](https://github.com/mnussbaum)
 * [StumpWM](https://github.com/tpine/base16-stumpwm) maintained by [tpine](https://github.com/tpine)
 * [Sway](https://github.com/rkubosz/base16-sway) maintained by [rkubosz](https://github.com/rkubosz)
@@ -221,10 +232,8 @@ If you have a template you maintain, but don't want to submit it to this org, fe
 * [Vimiv](https://github.com/karlch/base16-vimiv) maintained by [karlch](https://github.com/karlch)
 * [Windows Command Prompt](https://github.com/iamthad/base16-windows-command-prompt) maintained by [iamthad](https://github.com/iamthad)
 * [zathura](https://github.com/HaoZeke/base16-zathura) maintained by [HaoZeke](https://github.com/HaoZeke)
-* [nwg-dock](https://git.sr.ht/~blueingreen/base16-nwg-dock) maintained by [blueingreen68](https://github.com/BlueInGreen68)
 * [wlr-which-key](https://git.sr.ht/~blueingreen/base16-wlr-which-key) maintained by [blueingreen68](https://github.com/BlueInGreen68)
 * [btop](https://git.sr.ht/~blueingreen/base16-btop) maintained by [blueingreen68](https://github.com/BlueInGreen68)
-* [lazygit](https://git.sr.ht/~blueingreen/base16-lazygit) maintained by [blueingreen68](https://github.com/BlueInGreen68)
 
 </p>
 </details>
